@@ -8,11 +8,18 @@ public:
             else break;
         }
 
-        unordered_set<int> st(nums.begin(), nums.end());
-        while (st.count(sum)){
+        while (true) {
+            bool found = false;
+
+            for (int x : nums) {
+                if (x == sum) {
+                    found = true;
+                    break;
+                }
+            }
+
+            if (!found) return sum;
             sum++;
         }
-
-        return sum;
     }
 };
