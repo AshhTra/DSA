@@ -1,14 +1,18 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
         n = len(nums)
-        dp = [0] * (n + 1)
-        dp[1] = nums[0]
+        
+        prev1 = nums[0]
+        prev2 = 0
 
         for i in range(2, n + 1):
-            pick = nums[i - 1] + dp[i - 2]
-            npick = dp[i - 1]
-            dp[i] = max(pick, npick)
+            pick = nums[i - 1] + prev2
+            npick = prev1
+            curr = max(pick, npick)
 
-        return dp[n]
+            prev2 = prev1
+            prev1 = curr
+
+        return prev1
 
         
