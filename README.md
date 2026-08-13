@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/AshhTra/DSA/tree/master/0198-house-robber) |
 | [0228-summary-ranges](https://github.com/AshhTra/DSA/tree/master/0228-summary-ranges) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AshhTra/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
@@ -16,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AshhTra/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/AshhTra/DSA/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
