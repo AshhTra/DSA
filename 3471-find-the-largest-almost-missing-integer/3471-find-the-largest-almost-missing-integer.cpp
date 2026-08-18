@@ -5,15 +5,27 @@ public:
         vector<int> count(51, 0);
 
         for (int i = 0; i <= n - k; i++) {
-            unordered_set<int> unique_elements(nums.begin() + i, nums.begin() + i + k);
-            for (int x : unique_elements) {
-                count[x]++;
+            vector<bool> seen(51, false);
+
+            for (int j = i; j < i + k; j++) {
+                seen[nums[j]] = true;
+            }
+
+            for (int x = 0; x <= 50; x++) {
+                if (seen[x]) {
+                    count[x]++;
+                }
             }
         }
 
-        for (int x = 50; x >= 0; x--) {
-            if (count[x] == 1) return x;
+        int ans = -1;
+
+        for (int x = 0; x <= 50; x++) {
+            if (count[x] == 1) {
+                ans = x;
+            }
         }
-        return -1;
+
+        return ans;
     }
 };
