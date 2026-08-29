@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AshhTra/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0198-house-robber](https://github.com/AshhTra/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AshhTra/DSA/tree/master/0213-house-robber-ii) |
 ## Greedy
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AshhTra/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0168-excel-sheet-column-title](https://github.com/AshhTra/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AshhTra/DSA/tree/master/0171-excel-sheet-column-number) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AshhTra/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -81,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AshhTra/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AshhTra/DSA/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AshhTra/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
