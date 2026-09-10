@@ -12,16 +12,16 @@
 class Solution {
     int ans = 0;
 
-    vector<int> f(int subtreeSum, int subtreeCount, TreeNode* root) {
+    pair<int, int> f(TreeNode* root) {
         if(root == NULL) {
             return {0, 0};
         }
 
-        vector<int> left = f(0, 0, root -> left);
-        vector<int> right = f(0, 0, root -> right);
+        pair<int, int> left = f(root -> left);
+        pair<int, int> right = f(root -> right);
 
-        subtreeSum = left[0] + right[0] + root -> val;
-        subtreeCount = left[1] + right[1] + 1;
+        int subtreeSum = left.first + right.first + root -> val;
+        int subtreeCount = left.second + right.second + 1;
 
         if(subtreeSum / subtreeCount == root -> val) {
             ans += 1;
@@ -32,11 +32,7 @@ class Solution {
 
 public:
     int averageOfSubtree(TreeNode* root) {
-        int subtreeSum = 0;
-        int subtreeCount = 0;
-
-        f(subtreeSum, subtreeCount, root);
-
+        f(root);
         return ans;
     }
 };
