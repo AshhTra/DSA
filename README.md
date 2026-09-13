@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/AshhTra/DSA/tree/master/0228-summary-ranges) |
 | [0414-third-maximum-number](https://github.com/AshhTra/DSA/tree/master/0414-third-maximum-number) |
 | [1386-cinema-seat-allocation](https://github.com/AshhTra/DSA/tree/master/1386-cinema-seat-allocation) |
+| [2101-detonate-the-maximum-bombs](https://github.com/AshhTra/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AshhTra/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AshhTra/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AshhTra/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/AshhTra/DSA/tree/master/0007-reverse-integer) |
 | [0168-excel-sheet-column-title](https://github.com/AshhTra/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AshhTra/DSA/tree/master/0171-excel-sheet-column-number) |
+| [2101-detonate-the-maximum-bombs](https://github.com/AshhTra/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AshhTra/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3871-count-commas-in-range-ii](https://github.com/AshhTra/DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AshhTra/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/AshhTra/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AshhTra/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -120,4 +123,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/AshhTra/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/AshhTra/DSA/tree/master/2101-detonate-the-maximum-bombs) |
+## Graph Theory
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/AshhTra/DSA/tree/master/2101-detonate-the-maximum-bombs) |
+## Geometry
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/AshhTra/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
