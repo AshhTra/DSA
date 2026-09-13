@@ -20,31 +20,22 @@ public:
 
                 long long dx = bombs[i][0] - bombs[j][0];     // x1 - x2
                 long long dy = bombs[i][1] - bombs[j][1];     // y1 - y2
-                int r1 = bombs[i][2];
+                long long r1 = bombs[i][2];
 
-                if(dx*dx + dy*dy <= 1LL * r1 * r1){
+                if(dx*dx + dy*dy <= r1 * r1){
                     adj[i].push_back(j);
-                } 
-
-                dx = bombs[j][0] - bombs[i][0];     // x2 - x1
-                dy = bombs[j][1] - bombs[i][1];     // y2 - y1
-                int r2 = bombs[j][2];
-
-                if(dx*dx + dy*dy <= 1LL * r2 * r2){
-                    adj[j].push_back(i);
                 } 
             }
         }
 
-
         int ans = 0;
         for(int i = 0; i < n; i++){
             vector<int> vis(n, 0);
-            // if(!vis[i]){
-            int cnt = 0;
-            dfs(i, cnt, vis, adj);
-            // }  
-            ans = max(cnt, ans);          
+            if(!vis[i]){
+                int cnt = 0;
+                dfs(i, cnt, vis, adj);
+                ans = max(cnt, ans);          
+            }  
         }
         return ans;
     }
