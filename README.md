@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/AshhTra/DSA/tree/master/0007-reverse-integer) |
 | [0168-excel-sheet-column-title](https://github.com/AshhTra/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AshhTra/DSA/tree/master/0171-excel-sheet-column-number) |
+| [0836-rectangle-overlap](https://github.com/AshhTra/DSA/tree/master/0836-rectangle-overlap) |
 | [2101-detonate-the-maximum-bombs](https://github.com/AshhTra/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AshhTra/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3871-count-commas-in-range-ii](https://github.com/AshhTra/DSA/tree/master/3871-count-commas-in-range-ii) |
@@ -134,5 +135,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/AshhTra/DSA/tree/master/0836-rectangle-overlap) |
 | [2101-detonate-the-maximum-bombs](https://github.com/AshhTra/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
