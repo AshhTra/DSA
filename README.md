@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0197-rising-temperature](https://github.com/AshhTra/DSA/tree/master/0197-rising-temperature) |
 | [0607-sales-person](https://github.com/AshhTra/DSA/tree/master/0607-sales-person) |
+| [0610-triangle-judgement](https://github.com/AshhTra/DSA/tree/master/0610-triangle-judgement) |
 | [1068-product-sales-analysis-i](https://github.com/AshhTra/DSA/tree/master/1068-product-sales-analysis-i) |
 | [1280-students-and-examinations](https://github.com/AshhTra/DSA/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/AshhTra/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
