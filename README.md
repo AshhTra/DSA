@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AshhTra/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/AshhTra/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AshhTra/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AshhTra/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0168-excel-sheet-column-title](https://github.com/AshhTra/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AshhTra/DSA/tree/master/0171-excel-sheet-column-number) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AshhTra/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AshhTra/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/AshhTra/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AshhTra/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -147,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/AshhTra/DSA/tree/master/0836-rectangle-overlap) |
 | [2101-detonate-the-maximum-bombs](https://github.com/AshhTra/DSA/tree/master/2101-detonate-the-maximum-bombs) |
+## Stack
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AshhTra/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AshhTra/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
